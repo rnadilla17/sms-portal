@@ -1,9 +1,9 @@
-# sms-portal
+# SMS PORTAL TWILIO 
 
 HOW TO INSTALL
 
 
-<b>1. UPDATE .env with twilio credentials</b>
+<b>1. Add this code at the end of the line .env with twilio credentials</b>
 <pre>
 TWILIO_SID="INSERT YOUR TWILIO SID HERE"
 TWILIO_AUTH_TOKEN="INSERT YOUR TWILIO TOKEN HERE"
