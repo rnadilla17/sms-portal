@@ -1,5 +1,6 @@
 # sms-portal
-sms portal twilio
+
+HOW TO INSTALL
 
 
 <b>1. UPDATE .env with twilio credentials</b>
